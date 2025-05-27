@@ -79,7 +79,7 @@ Then visit the `EXTERNAL-IP` of the service in your browser to see the NGINX wel
 
 Here's what the deployed NGINX service looks like when accessed via the external load balancer:
 
-![Cluster Screenshot](https://github.com/Roberto-A-Cardenas/terraform-eks-kubernetes-cluster/raw/main/assets/terraform-eks-cluster%20welcome%20to%20nginx.png)
+![Cluster Screenshot](https://github.com/Roberto-A-Cardenas/terraform-eks-kubernetes-cluster/raw/main/assets/nginx-welcome.png)
 
 ## 🧹 Cleanup
 
