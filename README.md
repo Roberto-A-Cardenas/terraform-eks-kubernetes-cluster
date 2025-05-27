@@ -90,12 +90,6 @@ kubectl delete -f nginx-service.yaml
 terraform destroy
 ```
 
-## 🏷️ Badges
-
-![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
-![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?logo=kubernetes)
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — free to use, share, and modify.
