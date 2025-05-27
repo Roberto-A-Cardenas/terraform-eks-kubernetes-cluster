@@ -6,7 +6,7 @@
 
 This project provisions a secure, production-grade **EKS Kubernetes Cluster** on AWS using **Terraform**. It includes a full VPC setup with public and private subnets, NAT Gateway, IAM roles, security group restrictions, CloudWatch logging, and a working sample deployment (NGINX).
 
-![EKS Architecture Diagram](assets/eks-cluster-diagram.png)
+![EKS Architecture Diagram](https://github.com/Roberto-A-Cardenas/terraform-eks-kubernetes-cluster/raw/main/eks-cluster-diagram.png)
 
 ## 🧱 Features
 
